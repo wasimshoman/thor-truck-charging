@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "thor-truck-charging: THOR design-choice sensitivity for European battery-electric truck fast charging"
+type: software
+authors:
+  - family-names: Shoman
+    given-names: Wasim
+    affiliation: "Chalmers Next Labs"
+    email: shoman@chalmers.se
+license: MIT
+version: 0.1.0
+date-released: 2026-11-07
+abstract: "Code and results for Shoman et al. (under review), which asks which design choices matter when sizing Europe's 2030 fast-charging network for battery-electric trucks."

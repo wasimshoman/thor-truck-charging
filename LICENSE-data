@@ -1,0 +1,9 @@
+Data and results in data/ and results/ are licensed under the Creative Commons
+Attribution 4.0 International licence (CC BY 4.0).
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Wasim Shoman, Chalmers Next Labs. Credit the author and cite CITATION.cff.
+The country polygons in data/input/countries.gpkg come from a third-party boundary file;
+check its terms before reuse.
